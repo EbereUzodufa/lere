@@ -107,9 +107,24 @@ ul#moreProducts_items>li{
 
 ul#moreProducts_items>li.moreProducts_item::before{
 	content: "☆";
+	font-weight: bold;
 	color: #EB5757;
 	display: inline;
 	width: 1rem;
 	margin-left: -2rem;
-	margin-right: 10px;
+	margin-right: 1rem;
+}
+
+ul.card_properties>li{
+	list-style: none;
+}
+
+ul.card_properties>li.card_properties_items::before{
+	content: "✓";
+	font-weight: bold;
+	color: #EB5757;
+	display: inline;
+	width: 1rem;
+	margin-left: -2rem;
+	margin-right: 1rem;
 }
