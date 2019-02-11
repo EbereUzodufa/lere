@@ -319,4 +319,8 @@ img.img_socialMediaIcon{
 	div.product{
 		width: calc((100% - 20px)/3);
 	}
+
+	h1{
+		text-align: center;
+	}
 }
