@@ -128,3 +128,23 @@ ul.card_properties>li.card_properties_items::before{
 	margin-left: -2rem;
 	margin-right: 1rem;
 }
+
+button.btnReadMore>a>p, button#moreProducts_btnReadMore>a>p{
+	margin: 5px auto;
+	color: #fff;
+	font-size: 1rem;
+	text-align: center;
+	text-decoration-line: underline;
+}
+
+button.btnReadMore, button#moreProducts_btnReadMore{
+	width: calc(100% - 20px);
+	margin: auto;
+	background-color: #EB5757;
+	border-style: none;
+}
+
+button>a{
+	width: 100%;
+	height: 100%;
+}
