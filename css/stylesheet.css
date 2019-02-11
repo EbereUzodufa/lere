@@ -58,11 +58,6 @@ img.product_image{
 	margin: 5px auto;
 }
 
-img.img_socialMediaIcon{
-	width: 45px;
-	height: 45px;
-}
-
 iframe#descVideo, iframe#googleForm {
     margin: auto;
 }
@@ -242,4 +237,27 @@ footer{
 	background-color: #fff;
 	z-index: 1;
 	box-shadow: 0px -1px 1px rgba(235, 87, 87,0.3);
+}
+
+article#soical_media{
+	background-color: #EB5757;
+}
+
+h2#socialMediaText{
+	text-transform: uppercase;
+	color: #fff;
+}
+
+a.social_icon{
+	text-decoration: none;
+}
+
+div#socialMedia_container{
+	margin: 5px auto;
+}
+
+img.img_socialMediaIcon{
+	width: 45px;
+	height: 45px;
+	margin: 5px;
 }
