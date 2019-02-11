@@ -331,6 +331,11 @@ img.img_socialMediaIcon{
 	    margin: 10px auto;
 	}
 
+	article#soical_media{
+		width: 800px;
+		margin: auto;
+	}
+
 	ul#moreProducts_items{
 		margin: 10px auto;
 	}
