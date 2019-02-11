@@ -69,7 +69,7 @@ iframe#descVideo {
     margin: auto;
 }
 
-div.product {
+div.product, div.more_products {
     display: flex;
     flex-wrap: wrap;
     margin: 10px auto;
@@ -97,9 +97,9 @@ ul#moreProducts_items {
     margin-top: 15px;
 }
 
-div.more_products {
+/*div.more_products {
     margin: 10px;
-}
+}*/
 
 ul#moreProducts_items>li{
 	list-style: none;
