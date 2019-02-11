@@ -293,5 +293,7 @@ img.img_socialMediaIcon{
 }
 
 @media screen and (min-width: 799px){
-
+	body{
+		font-size: 20px;
+	}
 }
