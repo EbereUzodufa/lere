@@ -63,3 +63,7 @@ img.img_socialMediaIcon{
 	width: 45px;
 	height: 45px;
 }
+
+iframe#descVideo {
+    margin: auto;
+}
