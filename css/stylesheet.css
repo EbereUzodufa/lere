@@ -73,7 +73,15 @@ div.product, div.more_products {
     display: flex;
     flex-wrap: wrap;
     margin: 10px auto;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
+
+/*div.more_products {
+    margin: 10px;
+}*/
 
 h2.card_name, h3.card_price, ul.card_properties {
     margin: 5px;
@@ -96,10 +104,6 @@ ul#moreProducts_items {
     margin-bottom: 15px;
     margin-top: 15px;
 }
-
-/*div.more_products {
-    margin: 10px;
-}*/
 
 ul#moreProducts_items>li{
 	list-style: none;
