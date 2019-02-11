@@ -72,6 +72,7 @@ iframe#descVideo {
 div.product {
     display: flex;
     flex-wrap: wrap;
+    margin: 10px auto;
 }
 
 h2.card_name, h3.card_price, ul.card_properties {
