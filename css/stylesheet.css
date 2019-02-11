@@ -267,5 +267,22 @@ img.img_socialMediaIcon{
 }
 
 @media screen and (min-width: 650px){
-	
+	div#logoContainer{
+		width: 30%;
+		order: -1;
+	}
+
+	div#menuContainer{
+		width: 70%;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	nav#menu {
+	    margin-right: 3rem;
+	    margin-top: auto;
+	    margin-bottom: auto;
+	    margin-left: auto;
+	    text-align: center;
+	}
 }
