@@ -73,3 +73,7 @@ div.product {
     display: flex;
     flex-wrap: wrap;
 }
+
+h2.card_name, h3.card_price, ul.card_properties {
+    margin: 5px;
+}
