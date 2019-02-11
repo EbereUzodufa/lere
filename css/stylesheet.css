@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 h1{
-	font-size: 2em;
+	font-size: 2rem;
 	text-transform: uppercase;
 	color: #EB5757;
 }
@@ -45,12 +45,12 @@ h2, h3{
 }
 
 h2{
-	font-size: 1.5em;
+	font-size: 1.5rem;
 	color: #000;
 }
 
 h3{
-	font-size: 1.2em;
+	font-size: 1.2rem;
 	color: #EB5757;
 }
 
