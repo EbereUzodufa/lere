@@ -330,6 +330,20 @@ img.img_socialMediaIcon{
 	    width: 800px;
 	    margin: 10px auto;
 	}
+
+	ul#moreProducts_items{
+		margin: 10px auto;
+	}
+
+	ul#moreProducts_items>li.moreProducts_item::before{
+		margin-left: -1rem;	
+		margin-right: 0.2rem;
+	}
+
+	ul#moreProducts_items>li{
+		display: inline;
+	    margin: auto 20px;
+	}
 }
 
 @media screen and (min-width: 999px){
