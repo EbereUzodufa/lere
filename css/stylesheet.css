@@ -194,3 +194,8 @@ strong{
 	text-transform: capitalize;
 	color: #EB5757;
 }
+
+a#03Captial{
+	text-decoration:none;
+	color: #EB5757;
+}
