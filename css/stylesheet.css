@@ -3,8 +3,7 @@
 #FAFAFA;
 */
 
-
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Dosis|Major+Mono+Display|Quicksand|Ubuntu|Work+Sans');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Dosis|Londrina+Outline|Quicksand|Ubuntu|Work+Sans');
 
 body{
 	font-family: 'Work Sans', sans-serif;
@@ -196,5 +195,33 @@ strong{
 }
 
 a#Captial{
+	color: #EB5757;
+}
+
+div#logo{
+	margin: 10px auto;
+}
+
+div#logo>p{
+	text-align: center;
+	width: 100%;
+	margin: 0px auto;
+	font-style: normal;
+	line-height: normal;
+	text-align: center;
+}
+
+p#omolere{
+	font-family: 'Londrina Outline', sans-serif;
+	font-weight: bold;
+	font-size: 2.25rem;
+	text-transform: uppercase;
+	color: #000;
+}
+
+p#logoSub{
+	font-family: 'Dosis', sans-serif;
+	font-size: 1.25rem;
+	text-transform: capitalize;
 	color: #EB5757;
 }
