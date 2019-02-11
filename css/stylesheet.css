@@ -266,7 +266,7 @@ img.img_socialMediaIcon{
 	margin: 5px;
 }
 
-@media screen and (min-width: 650px){
+@media screen and (min-width: 649px){
 	div#logoContainer{
 		width: 30%;
 		order: -1;
