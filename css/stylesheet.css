@@ -296,4 +296,8 @@ img.img_socialMediaIcon{
 	body{
 		font-size: 20px;
 	}
+	iframe#descVideo {
+	    width: 800px;
+	    height: 400px;
+	}
 }
