@@ -293,6 +293,12 @@ img.img_socialMediaIcon{
 	    width: calc(100% - 50px);
 	    height: 300px;
 	}
+
+	img.product_image{
+		width: 240px;
+		height: 180px;
+		margin: 5px auto;
+	}
 }
 
 @media screen and (min-width: 799px){
