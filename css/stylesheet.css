@@ -306,7 +306,7 @@ img.img_socialMediaIcon{
 	}
 }
 
-@media screen and (min-width: 799px){
+@media screen and (min-width: 749px){
 	body{
 		font-size: 20px;
 	}
@@ -326,5 +326,9 @@ img.img_socialMediaIcon{
 }
 
 @media screen and (min-width: 999px){
-
+	img.product_image{
+		width: 300px;
+		height: 225px;
+		margin: 5px auto;
+	}
 }
