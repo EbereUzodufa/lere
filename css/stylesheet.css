@@ -53,3 +53,8 @@ img.product_image{
 	height: 150px;
 	margin: 5px auto;
 }
+
+img.img_socialMediaIcon{
+	width: 45px;
+	height: 45px;
+}
