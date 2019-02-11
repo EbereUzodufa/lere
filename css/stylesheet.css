@@ -13,10 +13,10 @@ body{
 }
 
 main{
-	
+
 }
 
-body, main{
+body, main,footer,header,section, article{
 	display: flex;
 	flex-wrap: wrap;
 	width: 100%;
