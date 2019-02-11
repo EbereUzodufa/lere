@@ -326,7 +326,10 @@ img.img_socialMediaIcon{
 }
 
 @media screen and (min-width: 819px){
-	
+	div#homeTextContainer {
+	    width: 800px;
+	    margin: 10px auto;
+	}
 }
 
 @media screen and (min-width: 999px){
