@@ -1,3 +1,8 @@
+/*Colors
+#EB5757;
+*/
+
+
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Dosis|Major+Mono+Display|Quicksand|Ubuntu|Work+Sans');
 
 body{
@@ -12,4 +17,11 @@ body{
 
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+	font-size: 2em;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #EB5757;
 }
