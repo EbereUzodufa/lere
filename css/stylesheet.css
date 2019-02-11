@@ -349,6 +349,10 @@ img.img_socialMediaIcon{
 		display: inline;
 	    margin: auto 20px;
 	}
+
+	iframe#googleForm{
+		width: 750px;
+	}
 }
 
 @media screen and (min-width: 999px){
