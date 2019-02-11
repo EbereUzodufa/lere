@@ -78,3 +78,12 @@ div.product {
 h2.card_name, h3.card_price, ul.card_properties {
     margin: 5px;
 }
+
+p{
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 1rem;
+	color: #000000;
+}
