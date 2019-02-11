@@ -30,3 +30,8 @@ h2, h3{
 	text-align: center;
 	text-transform: capitalize;
 }
+
+h2{
+	font-size: 1.5em;
+	color: #000;
+}
