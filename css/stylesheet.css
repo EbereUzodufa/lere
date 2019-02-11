@@ -100,3 +100,16 @@ ul#moreProducts_items {
 div.more_products {
     margin: 10px;
 }
+
+ul#moreProducts_items>li{
+	list-style: none;
+}
+
+ul#moreProducts_items>li.moreProducts_item::before{
+	content: "☆";
+	color: #EB5757;
+	display: inline;
+	width: 1rem;
+	margin-left: -2rem;
+	margin-right: 10px;
+}
