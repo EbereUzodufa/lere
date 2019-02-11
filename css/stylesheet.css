@@ -58,6 +58,10 @@ img.product_image{
 	margin: 5px auto;
 }
 
+ iframe#googleForm {
+ 	width: calc(100% - 20px);
+ }
+
 iframe#descVideo, iframe#googleForm {
     margin: auto;
 }
