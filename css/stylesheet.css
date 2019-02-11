@@ -63,7 +63,7 @@ img.img_socialMediaIcon{
 	height: 45px;
 }
 
-iframe#descVideo {
+iframe#descVideo, iframe#googleForm {
     margin: auto;
 }
 
