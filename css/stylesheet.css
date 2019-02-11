@@ -67,3 +67,8 @@ img.img_socialMediaIcon{
 iframe#descVideo {
     margin: auto;
 }
+
+div.product {
+    display: flex;
+    flex-wrap: wrap;
+}
