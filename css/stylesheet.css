@@ -285,4 +285,9 @@ img.img_socialMediaIcon{
 	    margin-left: auto;
 	    text-align: center;
 	}
+
+	iframe#descVideo {
+	    width: calc(100% - 50px);
+	    height: 300px;
+	}
 }
