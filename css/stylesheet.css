@@ -87,3 +87,16 @@ p{
 	font-size: 1rem;
 	color: #000000;
 }
+
+h2#moreProducts_name {
+    margin: auto;
+}
+
+ul#moreProducts_items {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+div.more_products {
+    margin: 10px;
+}
