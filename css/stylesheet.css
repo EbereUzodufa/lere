@@ -1,5 +1,6 @@
 /*Colors
 #EB5757;
+#FAFAFA;
 */
 
 
@@ -13,7 +14,7 @@ body{
 }
 
 main{
-
+	background-color: #FAFAFA;
 }
 
 body, main,footer,header,section, article{
